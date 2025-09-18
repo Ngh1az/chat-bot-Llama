@@ -1,3 +1,4 @@
+//ts-nocheck
 export const MODELS = [
     // { id: 'kimi-k2', label: 'Moonshot Kimi K2 (instruct)' }, // Unauthorized for Free Api Keys
     { id: 'meta-llama/llama-4-scout-17b-16e-instruct', label: 'Llama-4 Scout 17B (Groq)' },
